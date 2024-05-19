@@ -1,11 +1,11 @@
 ## Hello there 👋 
 
-I am a Software Developer working in Singapore. 
+I am a Data Engineer working in Singapore. 
 
 - 👋 Hi, I’m @melvinlkl
 - ⚙️ I deal with: `.java` `.py` `.html` `.css` `.js` `.vue` `.sql`
-- 👀 I’m interested in **Data Science**
-- 🌱 Learning about: ***Big Data Tools*** - Teradata, Hadoop, and Spark
+- 👀 I’m interested in **Data Engineering** & **Data Science**
+- 🌱 Learning about: ***Big Data Tools*** & ***Cloud Technologies***
 - 💬 Ask me about football
 - 👨‍💻 Open to collaboration on projects 😎
 
