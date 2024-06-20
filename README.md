@@ -1,9 +1,9 @@
 ## Hello there 👋 
 
-I am a Data Engineer working in Singapore. 
+I am a Data Engineer. 
 
 - 👋 Hi, I’m @melvinlkl
-- ⚙️ I deal with: `.java` `.py` `.html` `.css` `.js` `.vue` `.sql`
+- ⚙️ I play with: `.java` `.py` `.html` `.css` `.js` `.vue` `.sql`
 - 👀 I’m interested in **Data Engineering** & **Data Science**
 - 🌱 Learning about: ***Big Data Tools*** & ***Cloud Technologies***
 - 💬 Ask me about football
