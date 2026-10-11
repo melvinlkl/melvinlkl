@@ -42,14 +42,6 @@ Status     Open to thoughtful collaboration
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### `github`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=melvinlkl&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=melvinlkl&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-  <img src="https://github-stats-extended.vercel.app/api?username=melvinlkl&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Melvin's GitHub stats" />
-</picture>
-
 ### `connect`
 
 [![Website](https://img.shields.io/badge/Website-Personal-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://melvinlkl.vercel.app)
