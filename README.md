@@ -1,34 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hello!&textBg=false&animation=fadeIn"/>
-</p>
-
-## Hello there 👋 
-
-I am a Data Engineer. 
-
-- 👋 Hi, I’m @melvinlkl`
-- 👀 I’m interested in **Data Engineering** & **Data Science**
-- 🌱 Learning about: ***Kubernetes*** & ***Cloud Technologies***
-- 💬 Ask me about football
-- 👨‍💻 Open to collaboration on projects 😎
-
-<h2>Tech Stack</h2>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="airflow" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="45" height="45"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="45" height="45"/>
-</p>
+<h1 align="center">Hi, I'm Melvin 👋</h1>
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&textBg=false&animation=fadeIn&section=footer" />
+  <strong>Data Engineer · Singapore</strong><br />
+  <sub>I like building dependable data systems, learning cloud-native tools, and making complicated things easier to use.</sub>
 </p>
 
+<table>
+  <tr>
+    <td width="62%" valign="middle">
+      <pre>
+melvin@github
+────────────────────────────────────────
+Role       Data Engineer
+Location   Singapore
+Focus      Data platforms · Cloud · AI
+Learning   Kubernetes · Modern data tools
+Toolbox    Python · SQL · Spark · Airflow
+Cloud      GCP · Terraform · Docker
+Offline    Football · Sleep · Curiosity
+Status     Open to thoughtful collaboration
+      </pre>
+    </td>
+  </tr>
+</table>
+
+- Exploring reliable, scalable data-platform patterns.
+- Learning more about Kubernetes, cloud infrastructure, and AI-assisted engineering.
+- Happy to collaborate on useful data, automation, or developer-tooling projects.
+
+### `toolbox`
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### `github`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=melvinlkl&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=melvinlkl&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+  <img src="https://github-stats-extended.vercel.app/api?username=melvinlkl&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Melvin's GitHub stats" />
+</picture>
+
+### `connect`
+
+[![Website](https://img.shields.io/badge/Website-Personal-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://melvinlkl.vercel.app)
